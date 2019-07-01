@@ -1,2 +1,2 @@
 # MusicBot1
-Bot made by: Blade#
+Bot made by: Blade#8285
